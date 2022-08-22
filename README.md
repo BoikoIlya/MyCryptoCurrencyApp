@@ -11,7 +11,7 @@ Stack:
 - Coroutines
 - Room
 
-This app get list of cryptocurrencies, and shows details of them. 
+This app get list of cryptocurrencies from network. If you click on crypto currency, app will take it id and make second network request to show clicked coin details. 
 
 ## ScreenShots:
 
