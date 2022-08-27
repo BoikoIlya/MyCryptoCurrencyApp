@@ -10,6 +10,8 @@ Stack:
 - Hilt
 - Coroutines
 - Room
+- Flow
+- StateFlow
 
 This app get list of cryptocurrencies from network. If you click on crypto currency, app will take it id and make second network request to show clicked coin details. 
 
